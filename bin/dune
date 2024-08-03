@@ -1,0 +1,4 @@
+(executable
+ (public_name autodiff)
+ (name main)
+ (libraries autodiff))
